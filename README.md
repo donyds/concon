@@ -5,7 +5,7 @@
 
 # concon.io
 
-concon is a programming interface-based site that is utilized for LinkedIn expansion. it is utilized to change over short meaningful content.
+Concon Is A Programming Interface-based Site That Is Utilized For Linkedin Expansion. It Is Utilized To Change Over Short Meaningful Content.
 
 
 # Color Reference
